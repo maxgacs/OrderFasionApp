@@ -25,6 +25,6 @@ class orders extends Component
             'orders' => $order
         ]);
     }
-//ggg
+
    
 }
