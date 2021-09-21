@@ -1,0 +1,1 @@
+<img src="{{ asset('https://pbs.twimg.com/media/E3VIcopVUAAlt_-?format=png&name=240x240') }}" alt="" style="width:64px;">
