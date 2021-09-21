@@ -18,6 +18,8 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
+//testttttttt
+
 Route::post('manager/login', 'API\ManagerController@login');
 Route::get('viewOneManager/{id}', 'API\ManagerController@viewOneManager');
 
