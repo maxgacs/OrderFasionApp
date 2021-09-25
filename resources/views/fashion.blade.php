@@ -35,7 +35,7 @@
             @endif
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <img src="{{ asset('https://pbs.twimg.com/media/E3VIcn9VoAoYJ7x?format=png&name=240x240') }}" alt="" style="width:256px;">
+                <img src="{{ asset('https://scontent.fbkk2-5.fna.fbcdn.net/v/t39.30808-6/242469498_1863231833885669_349211778345953710_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeG9snmV7WQxp8-0BXrODZFAadPg-jJCdHlp0-D6MkJ0eT1Tw73IvIIG4PMKG--6dAipFG2NnZFb77_mmI8rZV-t&_nc_ohc=m7vrAi8rB44AX9_7JF4&tn=iY0eXms72GPe4cnJ&_nc_ht=scontent.fbkk2-5.fna&oh=11a914588536f9a48426d21621f5ca11&oe=6154868D') }}" alt="" style="width:256px;">
                 </div>
             </div>
         </div>
